@@ -1,0 +1,6 @@
+S > xYZ
+Y > xY
+Y > y
+Z > zZ
+Z > x
+xxxyzx

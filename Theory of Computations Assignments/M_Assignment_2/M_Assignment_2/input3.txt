@@ -1,0 +1,5 @@
+S > aS
+S > bSS
+S > cS
+S > d
+abacdad

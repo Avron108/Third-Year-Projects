@@ -1,0 +1,7 @@
+S > aA
+A > aBCD
+B > bC
+B > aBCD
+C > b
+D > b
+aaaabbbbbbbb

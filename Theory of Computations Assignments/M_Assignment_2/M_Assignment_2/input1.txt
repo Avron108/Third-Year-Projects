@@ -1,0 +1,14 @@
+S > {LR
+R > }
+L > xAYPZ
+L > iXTLC
+C > d
+C > eLD
+A > =
+Y > y
+P > +
+Z > z
+X > x
+T > t
+D > d
+{ i x t x=y+z e i x t x=y+z d d }
